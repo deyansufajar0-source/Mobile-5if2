@@ -1,8 +1,8 @@
 void main() {
   // 1. Menyimpan data karyawan menggunakan variabel dengan tipe data yang sesuai
-  String namaKaryawan = "Andi Wijaya";
+  String namaKaryawan = "Deyan Sufajar";
   int jamKerja = 40; // Jumlah jam kerja dalam seminggu
-  double upahPerJam = 75000.0;
+  double upahPerJam = 187000.0;
   bool isKaryawanTetap = true; // true = tetap, false = kontrak
 
   // 2. Menghitung gaji kotor
